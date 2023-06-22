@@ -1,0 +1,1 @@
+Bu projeyi ekranlar arası geçişi denemek için yaptım. 6 saniye arayla giriş sayfasından anasayfaya geçiş yapıyor.
