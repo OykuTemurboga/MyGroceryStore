@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application/anasyafa.dart';
+import 'package:flutter_application/anasayfa.dart';
 
 void main() {
   runApp(const MaterialApp(home: MyApp()));
